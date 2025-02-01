@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## How to get watsonx API key and Project ID
 
 Here, we initialize a language model and its embeddings. Here's a brief description of each section of the script:
@@ -36,3 +37,7 @@ After you create a project, you can go to the project’s `Manage` tab > select 
 Lastly, you can follow the below demonstration to create/get your [IBM Cloud user API key](https://cloud.ibm.com/iam/apikeys?utm_source=skills_network&utm_content=in_lab_content_link&utm_id=Lab-test1_v1_1702536549). Be sure to write your API key down somewhere right after you create it, because you won’t be able to see it again!
 
 ![Getting IBM cloud user API key](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-GPXX0PPIEN/ezgif.com-video-to-gif.gif)
+=======
+# SummarAI
+ Summarizing Private Data with Generative AI and RAG
+>>>>>>> ff515a8fd44d320aca32df5be93ec44fb1b3ecc1
